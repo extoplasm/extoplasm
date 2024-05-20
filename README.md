@@ -3,5 +3,5 @@ kid programming for fun
 
 :)
 
-discord: extoplasm
+discord: extoplasm/
 website: [extoplasm.website](https://extoplasm.github.io/extoplasm.website)

@@ -1,6 +1,4 @@
 ### extoplasm
-kid programming for fun
-
 :)
 
 discord: extoplasm\
